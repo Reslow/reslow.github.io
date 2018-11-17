@@ -16,7 +16,7 @@
 title: Fanny Reslow
 email: reslowf@gmail.om
 description: >- # this means to ignore newlines until "baseurl:"
-  This site presents my me and my work in the course Client-based webprogramming at Linnaeus university.
+  This site presents me and my work in the course Client-based webprogramming at Linnaeus university.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb

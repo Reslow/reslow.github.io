@@ -1,4 +1,11 @@
 ---
 layout: default
 ---
-hejhej
+
+
+
+<div class="blog">
+ 
+
+  {{ content }}
+
