@@ -1,7 +1,7 @@
 ---
 layout: page
-title: projects
+title: Projekt
 permalink: /projects/
 ---
 
-Here I will present my projects 
+Kommande projekt kommer presenteras här...
